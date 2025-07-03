@@ -1,7 +1,7 @@
 # faulttolerence
 **Fault tolerance is a system's ability to continue operating without interruption despite the failure of one or more of its components.**
 
-**ENSURING FAULT TOLERANCE AND CONSISTENCY IN DISTRIBUTED SYSTEMS USING ZAB**\
+**ENSURING FAULT TOLERANCE AND CONSISTENCY IN DISTRIBUTED SYSTEMS USING ZAB**
 * Author: 
 * Published In : 
 * Publication Date:
