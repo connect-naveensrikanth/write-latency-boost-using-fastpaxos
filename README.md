@@ -50,7 +50,7 @@ This paper tackles the challenge of high write latency in distributed systems th
 * This research is shared for a academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* IJFMR Site: https://www.ijirmps.org/
+* https://www.ijirmps.org/
 
 **Author Contact** 
   * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
