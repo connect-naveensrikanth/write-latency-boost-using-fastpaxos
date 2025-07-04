@@ -2,12 +2,12 @@
 **Fault tolerance is a system's ability to continue operating without interruption despite the failure of one or more of its components.**
 
 **ENSURING FAULT TOLERANCE AND CONSISTENCY IN DISTRIBUTED SYSTEMS USING ZAB**
-* Author: 
-* Published In : 
-* Publication Date:
-* E-ISSN:
-* Impact Factor:
-* Link:
+* Author: Naveen Srikanth Pasupuleti
+* Published In : International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
+* Publication Date: 08-2021
+* E-ISSN: 2349-7300
+* Impact Factor: 9.907
+* Link: https://www.ijirmps.org/research-paper.php?id=232536
 
 **Abstract**:\
 This paper tackles the challenge of high write latency in distributed systems that use write batching to improve throughput. While batching reduces transaction overhead, it can cause significant delays due to coordination and flushing times, especially as system size grows. To overcome this, the study proposes using the Fast Paxos algorithm, which reduces communication rounds and speeds up consensus. This approach aims to balance efficient write processing with low latency, enhancing overall system responsiveness and consistency. The results demonstrate improved performance in write-heavy distributed environments.
@@ -43,14 +43,15 @@ This paper tackles the challenge of high write latency in distributed systems th
 **Citation**
 * **OPTIMIZING WRITE PERFORMANCE BY REDUCING LATENCY IN DISTRIBUTED SYSTEMS**
 *   Naveen Srikanth Pasupuleti
-*   International Journal of
-*   E-ISSN- 
+*   International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences
+*   E-ISSN-2349-7300
 
 **License**
-* This reserach is shared for a academic and reserach purposes. For commercial use, please contact the author.
+* This research is shared for a academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* IJFMR Site please 
+* IJFMR Site: https://www.ijirmps.org/
 
 **Author Contact** 
-  * LinkedIn| Email:
+  * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
+  * Email: connect.naveensrikanth@gmail.com
