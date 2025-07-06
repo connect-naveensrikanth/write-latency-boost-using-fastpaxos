@@ -10,7 +10,7 @@
 This paper tackles the challenge of high write latency in distributed systems that use write batching to improve throughput. While batching reduces transaction overhead, it can cause significant delays due to coordination and flushing times, especially as system size grows. To overcome this, the study proposes using the Fast Paxos algorithm, which reduces communication rounds and speeds up consensus. This approach aims to balance efficient write processing with low latency, enhancing overall system responsiveness and consistency. The results demonstrate improved performance in write-heavy distributed environments.
 
 **Fault Tolerence**:\
-Fault tolerance is a system's ability to continue operating without interruption despite the failure of one or more of its components.**
+Fault tolerance is a system's ability to continue operating without interruption despite the failure of one or more of its components.
 
 **Key Contributions:** 
 * **Algorithm Development** \
