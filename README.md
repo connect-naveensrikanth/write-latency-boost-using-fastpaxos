@@ -31,9 +31,9 @@ Write batching techniques help decrease latency in Raft-based systems, though th
 While Fast Paxos offers faster writes, it adds complexity and coordination overhead, requiring careful conflict handling and quorum management to achieve efficient deployment.
 
 * **Academic Recognition :** \
-    Featured in academic literature and technical publications addressing DNS query management and performance enhancements within ETCD systems.
+    Featured in academic literature and technical publications focusing on reducing write latency and improving consensus efficiency in distributed environments through advanced protocols like Fast Paxos.
 * **Educational Impact:** \
-    Utilized in scholarly research efforts, facilitating ongoing academic discussions on container orchestration and optimization of cloud system performance.
+    Incorporated into research and academic coursework as a case study for exploring trade-offs in write batching, consensus algorithms, and their impact on performance and consistency in distributed system design.
 
 **Experimental Results (Summary)**
 
