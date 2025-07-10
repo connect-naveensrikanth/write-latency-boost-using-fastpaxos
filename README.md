@@ -21,14 +21,19 @@ Fault tolerance is a system's ability to continue operating without interruption
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
-* **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by reducing write latency.
-* **Query Processing Improvement:** \
-    need to add here
+* **Distributed Consensus Enhancement:**\
+Improves write performance by leveraging Fast Paxos’s low-latency fast path, which reduces write delays especially in low-contention environments.
+
+* **Write Operation Optimization:**\
+Write batching techniques help decrease latency in Raft-based systems, though the leader bottleneck remains a challenge for scalability.
+
+* **Trade-offs and Practical Considerations:**\
+While Fast Paxos offers faster writes, it adds complexity and coordination overhead, requiring careful conflict handling and quorum management to achieve efficient deployment.
+
 * **Academic Recognition :** \
-    need to add here
+    Featured in academic literature and technical publications addressing DNS query management and performance enhancements within ETCD systems.
 * **Educational Impact:** \
-    need to add here
+    Utilized in scholarly research efforts, facilitating ongoing academic discussions on container orchestration and optimization of cloud system performance.
 
 **Experimental Results (Summary)**
 
@@ -53,5 +58,4 @@ Fault tolerance is a system's ability to continue operating without interruption
 * [IJIRMPS Website](https://www.ijirmps.org/)
 
 **Author Contact** 
-  * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
-  * Email: connect.naveensrikanth@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/naveensrikanth | Email: connect.naveensrikanth@gmail.com
